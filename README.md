@@ -26,4 +26,5 @@
 #####
 
 © 2026 Jaime Llanos Bardales
+
 Este trabajo esta Bajo Licencia [Creative Commons Attribution 4.0 International](LICENSE)
